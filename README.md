@@ -1,12 +1,5 @@
 ## Hi there 👋
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/6d755b1b-af5c-424a-a7b5-b9f7be39d40e.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
+<figure><embed src="https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/f5054562-b0eb-4e44-9664-6d0ad79b20cf.svg"></embed></figure>
 <!--
 **BettoRaite/BettoRaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
