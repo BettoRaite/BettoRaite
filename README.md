@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<figure><embed src="https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/1d756609-99bc-43e6-b719-22f2a657a511.svg"></embed></figure>
 <!--
 **BettoRaite/BettoRaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
