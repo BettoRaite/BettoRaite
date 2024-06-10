@@ -1,5 +1,6 @@
 ## Hi there 👋
 <figure><embed src="https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/f5054562-b0eb-4e44-9664-6d0ad79b20cf.svg"></embed></figure>
+<a href="https://app.daily.dev/bettoraite"><img src="https://api.daily.dev/devcards/v2/xX79qVw3x2EqZoqIeWZHa.png?r=0s9" width="356" alt="bettoraite's Dev Card"/></a>
 <!--
 **BettoRaite/BettoRaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
