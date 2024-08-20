@@ -16,5 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Who am I?
 
-- 🔭 Some metadata 
-![My SVG](https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/df172bf2-5fa8-4fee-a0d9-27e8f8e1bbdc.svg)
+- 🔭 Some metadata
+
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/df172bf2-5fa8-4fee-a0d9-27e8f8e1bbdc.svg" alt="My SVG" width="500" height="500" />
+    <img src="https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/674db767-4623-4986-8869-807023fca779.svg" alt="OS" width="500" height="500" />
+</div>
+
+
