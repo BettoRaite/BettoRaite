@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+<br>
 <figure><embed src="https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/df172bf2-5fa8-4fee-a0d9-27e8f8e1bbdc.svg"></embed></figure>
-
+<br>
 <!--
 **BettoRaite/BettoRaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
