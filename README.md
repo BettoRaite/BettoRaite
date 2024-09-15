@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://t.me/BettoRaite
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Who am I?
+
+Ok, github profile is ready ✅
+Pushing to prod...
