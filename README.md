@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://t.me/BettoRaite
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Who am I?
-- 💭 Some things: I like typescript 💙 I like React 💙 
+- 💭 Some things:
+I like typescript 💙 Because it's what it's.
+I like React 💙 Because it's magic.
 
 Ok, github profile is ready ✅
 <br />
