@@ -8,19 +8,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on "Sea Of Kanji", a platform to help you learn kanji faster. 
-- 🌱 I’m currently learning everything about web dev.
-- 🤔 I’m looking for help with designs, you know, "Sea Of Kanji" also wants some love!
+- 🔭 I’m currently working on "Idontknow". 
+- 🌱 I’m currently learning web.
 - 💬 Ask me about how was my day.
 - 📫 How to reach me: https://t.me/BettoRaite
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Who am I?
-
-- 🔭 Some metadata
-
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/df172bf2-5fa8-4fee-a0d9-27e8f8e1bbdc.svg" alt="My SVG" width="500" height="500" />
-    <img src="https://wakatime.com/share/@2c69e186-6b8e-42b5-8121-5c6f1418f641/674db767-4623-4986-8869-807023fca779.svg" alt="OS" width="500" height="500" />
-</div>
-
-
