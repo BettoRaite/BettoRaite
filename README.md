@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sup? Middle aged old white black man 👋
+Keen on checking out my profile?
 
 
 
@@ -8,16 +9,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on "Idontknow". 
-- 🌱 I’m currently learning web.
-- 💬 Ask me about how was my day.
+- 🔭 I’m currently working on "let's learn those kanji". 
+- 🌱 I’m currently learning web, it's so sticky...
+- 💬 Ask me about how many steps I've done today.
 - 📫 How to reach me: https://t.me/BettoRaite
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Who am I?
+- 😄 Pronouns: he/him, the?
+- ⚡ Fun fact: I breathed in oxygen when I was little.
 - 💭 Some things:
-I like typescript 💙 Because it's what it's.
-I like React 💙 Because it's magic.
+Typescript is fun.
+React?
 
-Ok, github profile is ready ✅
-<br />
-Pushing to prod...
