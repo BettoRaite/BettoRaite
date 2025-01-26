@@ -1,2 +1,5 @@
-<p>Programming is city. There are many great places in the city, actually you might know some, but that is impossible to know the whole city. The places that you actually have even better places.</p>
-<img src="https://images.unsplash.com/photo-1504333638930-c8787321eee0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FsYXh5JTIwc2t5fGVufDB8MHwwfHx8Mg%3D%3D" style="width: 100%; height: 200px; object-fit: cover; border-radius: 1rem;" />
+  <div style="max-width: 600px; padding: 20px; background: rgba(255, 255, 255, 0.1); border-radius: 15px; backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); border: 1px solid rgba(255, 255, 255, 0.1);">
+    <p style="font-size: 1.5rem; line-height: 1.8; text-align: justify; margin: 0; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+      <span style="font-size: 3rem; font-weight: bold; color: #ffcc00; float: left; margin-right: 10px; line-height: 1;">P</span>rogramming is a city. There are many great places in the city, actually you might know some, but it is impossible to know the whole city. The places that you actually have are even better places.
+    </p>
+  </div>
